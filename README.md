@@ -24,4 +24,4 @@ Contents:
    
    - Summarizes the outcomes and key observations from the experiments, including how different techniques and configurations impacted model performance.
 
-Feel free to explore each notebook to understand the experimentation pipeline in detail, from data preprocessing to final model evaluations. If you have any questions or issues, please open an issue.
+Feel free to explore each notebook to understand the experimentation pipeline in detail, from data preprocessing to final model evaluations. If you have any questions or issues, please open an issue. Regarding the dataset, it is too large to upload. If you're interested, leave a comment, and we can arrange to share it via Google Drive.
