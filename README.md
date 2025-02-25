@@ -1,4 +1,4 @@
-This repository contains various Jupyter notebooks and accompanying materials for conducting extensive CNN-based experiments on ResActionsImages datasets, with a focus on tackling overfitting and improving model performance through techniques like class weighting, regularization, and transfer learning.
+This repository contains various Jupyter notebooks and accompanying materials for conducting extensive CNN-based experiments on ResActionsImages datasets, with a focus on tackling overfitting and improving model performance through several techniques.
 
 Contents
 full_experimentation_on_ResActionsImagesM_with_CNNs.ipynb
@@ -17,6 +17,5 @@ human_recognition_pseudo_images.ipynb
 
 Contains the baseline CNN model and initial setup for the ResActionsImages datasets.
 Report of Findings
-
 Summarizes the outcomes and key observations from the experiments, including how different techniques and configurations impacted model performance.
 Feel free to explore each notebook to understand the experimentation pipeline in detail, from data preprocessing to final model evaluations. If you have any questions or issues, please open an issue or submit a pull request.
