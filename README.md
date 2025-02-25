@@ -14,14 +14,14 @@ Contents:
 
 3) create_src.ipynb.
 
-  - Provides the source code modules and utility functions that the other notebooks import and use.
+   - Provides the source code modules and utility functions that the other notebooks import and use.
 
 4) human_recognition_pseudo_images.ipynb.
 
-  - Contains the baseline CNN model and initial setup for the ResActionsImages datasets.
+   - Contains the baseline CNN model and initial setup for the ResActionsImages datasets.
 
 5) Report of Findings.
    
- - Summarizes the outcomes and key observations from the experiments, including how different techniques and configurations impacted model performance.
+   - Summarizes the outcomes and key observations from the experiments, including how different techniques and configurations impacted model performance.
 
 Feel free to explore each notebook to understand the experimentation pipeline in detail, from data preprocessing to final model evaluations. If you have any questions or issues, please open an issue.
